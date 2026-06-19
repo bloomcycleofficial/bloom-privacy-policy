@@ -1,2 +1,2 @@
 # rutulaya-privacy-policy
-Privacy policy Rutulaya
+Privacy policy Rutulaya Period Tracker
