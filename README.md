@@ -1,2 +1,2 @@
-# bloom-privacy-policy
-Privacy policy Bloom Cycle Companion Application
+# rutulaya-privacy-policy
+Privacy policy Rutulaya
