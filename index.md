@@ -1,4 +1,4 @@
-# Bloom — Privacy Policy
+# Rutulaya — Privacy Policy
 
 **Last updated: May 2026**
 
@@ -6,13 +6,13 @@
 
 ## Overview
 
-Bloom is a menstrual cycle tracking and wellness app. We take your privacy seriously. This policy explains what data Bloom collects, how it is used, and your rights over your data.
+Rutulaya is a menstrual cycle tracking and wellness app. We take your privacy seriously. This policy explains what data Rutulaya collects, how it is used, and your rights over your data.
 
 ---
 
 ## Data We Collect
 
-Bloom collects the following data that you voluntarily enter:
+Rutulaya collects the following data that you voluntarily enter:
 
 - Period dates and flow intensity
 - Symptoms, moods, and personal notes
@@ -27,17 +27,17 @@ Bloom collects the following data that you voluntarily enter:
 
 ## Where Your Data Is Stored
 
-All your data is stored exclusively on your device using a local database. Bloom does **not** upload your data to any server, cloud service, or third party.
+All your data is stored exclusively on your device using a local database. Rutulaya does **not** upload your data to any server, cloud service, or third party.
 
-Backup files (.bloom) created by you are stored in your chosen location (local storage, Google Drive, etc.) and are entirely under your control.
+Backup files (.Rutulaya) created by you are stored in your chosen location (local storage, Google Drive, etc.) and are entirely under your control.
 
 ---
 
 ## Data Sharing
 
-Bloom does **not** share your data with any third parties.
+Rutulaya does **not** share your data with any third parties.
 
-The only external service used is Google Play Billing for Premium subscriptions. Google's own privacy policy applies to that transaction. Bloom does not receive or store any payment information.
+The only external service used is Google Play Billing for Premium subscriptions. Google's own privacy policy applies to that transaction. Rutulaya does not receive or store any payment information.
 
 ---
 
@@ -56,11 +56,11 @@ Your data is never used for advertising, profiling, or any purpose other than pr
 
 ## Medical Disclaimer
 
-Bloom is a wellness tracking app and is **not** a medical device. Bloom does not diagnose, treat, cure, or prevent any medical condition.
+Rutulaya is a wellness tracking app and is **not** a medical device. Rutulaya does not diagnose, treat, cure, or prevent any medical condition.
 
-Information and predictions provided by Bloom are for general wellness and educational purposes only. They should not replace professional medical advice.
+Information and predictions provided by Rutulaya are for general wellness and educational purposes only. They should not replace professional medical advice.
 
-**Do not rely on Bloom's cycle predictions for contraception.** Natural family planning requires professional guidance.
+**Do not rely on Rutulaya's cycle predictions for contraception.** Natural family planning requires professional guidance.
 
 ---
 
@@ -77,7 +77,7 @@ Uninstalling the app also removes all locally stored data.
 
 ## Children's Privacy
 
-Bloom is intended for users aged 13 and above. We do not knowingly collect data from children under 13.
+Rutulaya is intended for users aged 13 and above. We do not knowingly collect data from children under 13.
 
 ---
 
